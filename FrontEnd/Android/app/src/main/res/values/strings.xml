@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FYP</string>
+    <string name="b_o_m">B.O.M</string>
+    <string name="user_id">User ID :</string>
+    <string name="user_id_txt">User ID</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password :</string>
+    <string name="repassword">RePassword</string>
+    <string name="save">Save</string>
+    <string name="BackButton"><![CDATA[<]]></string>
+    <string name="register">Register</string>
+    <string name="testpop">TestPop</string>
+    <string name="select_roles">Select Roles</string>
+    <string name="employees">Employee</string>
+    <string name="SalaryTotalAmount">SalaryTotalAmount(Range)</string>
+</resources>
